@@ -12,7 +12,7 @@ Este é um aplicativo móvel em **desenvolvimento** criado para auxiliar no moni
 
 ## Status do Projeto
 
-O projeto **ainda está em desenvolvimento** e foi criado pelas alunas **Isabela Costa** e **Evelin Cristino**, do **2° ano de Desenvolvimento de Sistemas da Etec de Carapicuíba**.
+O projeto **ainda está em desenvolvimento** e foi criado pelas aluna **Isabela Costa**, do **3° ano de Desenvolvimento de Sistemas da Etec de Carapicuíba**.
 
 ## Tecnologias Utilizadas
 
